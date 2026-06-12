@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "10th Kyu (White)"
+date:   2025-07-21
+categories: karate grading
+---
+### Kihon
+
+| Move | Name | Image |
+| -------- | -------- | ------- |
+| Stance | Zenkutsu Dachi (Front Stance) | ![](/images/stance-zen-kutsu-dachi.gif) |
+| Strike | Oi Zuki (Stepping Punch) | ![](/images/strike-oi-zuki.gif) |
+| Strike | Gyaku Zuki (Reverse Punch) | ![](/images/strike-gyaku-zuki.gif) |
+| Block | Age Uke (Upper Rising Block) | ![](/images/block-agi-uke.gif) |
+| Block | Soto Ude Uke (Outside Forearm Block) | ![](/images/block-soto-ude-uke.gif) |
+| Block | Uchi Ude Uke (Inside Forearm Block) | ![](/images/block-uchi-ude-uke.gif) |
+| Block | Gedan Barai (Downward Block) | ![](/images/block-gedan-barai.gif) |
+| Kick | Mae Geri (Front Kick) | ![](/images/kick-mae-geri.gif) |
+
+### Kata
+- Tai Kyoku Shodan / Kihon Kata
+
+![](/images/taikyoku-shodan.jpg)
+
+### Kumite
+- Gohon Kumite (Five step sparring)
+1. Oi Zuki Jodan vs Age Uke
+1. Oi Zuki Chudan vs Soto Ude Uke
